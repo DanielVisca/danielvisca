@@ -27,7 +27,7 @@ Currently interviewing, exploring co-founder opportunities, and trying to figure
 
 ## Background
 
-Canadian, moved to Seattle in 2021. Got my green card recently. Built Chrome extensions, AI systems at enterprise scale, and various tools that scratch my own itches. I like projects that are technically interesting but are more importantly USEFUL, even if I don't always finish them.
+Canadian, moved to Seattle in 2021. Built Chrome extensions, AI systems at enterprise scale, and various tools that scratch my own itches. I like projects that are technically interesting but are more importantly USEFUL, even if I don't always finish them.
 
 ## Stack
 
