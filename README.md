@@ -37,7 +37,7 @@ Python • TypeScript • JavaScript • React • AI/ML • Full-stack
 
 ## Philosophy
 
-Build things that solve problems I actually have. Ship fast, polish later (or never). Prefer authentic communication over corporate speak.
+Build things that solve problems I actually have. Ship fast, polish later (or never).
 
 ---
 
