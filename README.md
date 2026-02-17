@@ -9,7 +9,7 @@
 **🔧 Side Projects**
 - [**Mod**](https://github.com/DanielVisca/Mod) - Vibecode any webpage on your browser to customize the internet to your liking
 - [**Sincerity**](https://chromewebstore.google.com/detail/eecmbjkpkifngjfchnnpiafopomkpick?utm_source=item-share-cb) - Chrome extension for media bias detection (850+ users)
-- [**MuscleMemory**](https://github.com/not4humans/MuscleMemory) - Python library for LLM agent memory
+- [**MuscleMemory**](https://github.com/not4humans/MuscleMemory) - Python library for LLM agent skill aquisition
 - [**Spot the Canadian**](https://chromewebstore.google.com/detail/iphflfkfcklomnkljpniojgnhloidpnb?utm_source=item-share-cb) - Chrome extension that identifies Canadian celebs
 - [**IoT Waste Management**](https://www.invntech.com/) - Device monitoring with Particle & Supabase
 
