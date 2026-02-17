@@ -7,6 +7,7 @@
 **🏺 Pottery Studio** - Opening a community studio in Seattle with my wife
 
 **🔧 Side Projects**
+- [**Mod**](https://github.com/DanielVisca/Mod) - Vibecode any webpage on your browser to customize the internet to your liking
 - [**Sincerity**](https://chromewebstore.google.com/detail/eecmbjkpkifngjfchnnpiafopomkpick?utm_source=item-share-cb) - Chrome extension for media bias detection (850+ users)
 - [**MuscleMemory**](https://github.com/not4humans/MuscleMemory) - Python library for LLM agent memory
 - [**Spot the Canadian**](https://chromewebstore.google.com/detail/iphflfkfcklomnkljpniojgnhloidpnb?utm_source=item-share-cb) - Chrome extension that identifies Canadian celebs
