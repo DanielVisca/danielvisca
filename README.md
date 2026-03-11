@@ -1,12 +1,12 @@
 # Hi, I'm Daniel 👋
 
-📍 Seattle | 💼 Software Engineer @ Microsoft | 🚀 Building things that solve my own problems
+📍 Seattle | Software Engineer @ Microsoft | Building things that solve my own problems
 
 ## What I'm Working On
 
-**🏺 Pottery Studio** - Opening a community studio in Seattle with my wife
+**Pottery Studio** - Opening a community studio in Seattle with my wife
 
-**🔧 Side Projects**
+**Side Projects**
 - [**Mod**](https://github.com/DanielVisca/Mod) - Vibecode any webpage on your browser to customize the internet to your liking
 - [**Sincerity**](https://chromewebstore.google.com/detail/eecmbjkpkifngjfchnnpiafopomkpick?utm_source=item-share-cb) - Chrome extension for media bias detection (850+ users)
 - [**Partners**](https://github.com/DanielVisca/Partners) - Two Agents, One Task (Adversarial and Cooperative)
@@ -15,11 +15,11 @@
 - [**IoT Waste Management**](https://www.invntech.com/) - Device monitoring with Particle & Supabase
 
 
-**💼 Day Job**
+**Day Job**
 - Building AI tools for OneSupport at Microsoft (40K agents, 218 countries)
 - QEA (AI Case Review) & ASAT (Agent Satisfaction - 100K+ surveys/year)
 
-[**🩺 RXCHAINGE**](https://www.rxchainge.com/) - Founding engineer & advisor at Montreal healthcare AI startup
+[**RXCHAINGE**](https://www.rxchainge.com/) - Founding engineer & advisor at Montreal healthcare AI startup
 
 ## Recent Stuff
 
