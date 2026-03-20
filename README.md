@@ -26,7 +26,8 @@
 
 Started a bunch of things, finished fewer than I'd like. Working on that.
 
-Currently interviewing, exploring co-founder opportunities, and trying to figure out how to build something that generates a couple hundred k without burning out.
+Getting **OutfitterHQ** from 0 -> 1
+Validating **Mod** as a useful 'vibecode your browser' tool
 
 ## Background
 
