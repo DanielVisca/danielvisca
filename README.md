@@ -13,6 +13,7 @@
 - [**MuscleMemory**](https://github.com/not4humans/MuscleMemory) - Python library for LLM agent skill aquisition
 - [**Spot the Canadian**](https://chromewebstore.google.com/detail/iphflfkfcklomnkljpniojgnhloidpnb?utm_source=item-share-cb) - Chrome extension that identifies Canadian celebs
 - [**IoT Waste Management**](https://www.invntech.com/) - Device monitoring with Particle & Supabase
+- [**OutfitterHQ**](https://outfitterhq.ca/) - Fleet operations and booking management platform for wilderness canoe and kayak outfitters.
 
 
 **Day Job**
