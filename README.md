@@ -26,9 +26,8 @@
 
 Started a bunch of things, finished fewer than I'd like. Working on that.
 
-Getting **OutfitterHQ** from 0 -> 1
-
-Validating **Mod** as a useful 'vibecode your browser' tool
+- Getting **OutfitterHQ** from 0 -> 1
+- Validating **Mod** as a useful 'vibecode your browser' tool
 
 ## Background
 
