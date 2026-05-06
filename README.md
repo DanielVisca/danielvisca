@@ -31,15 +31,14 @@ Started a bunch of things, finished fewer than I'd like. Working on that.
 
 ## Background
 
-Canadian, moved to Seattle in 2021. Built Chrome extensions, AI systems at enterprise scale, and various tools that scratch my own itches. I like projects that are technically interesting but are more importantly USEFUL, even if I don't always finish them.
-
+Canadian, moved to Seattle in 2021. Built Chrome extensions, AI systems at enterprise scale, and various tools that scratch my own itches. I like projects that are technically interesting but are more importantly USEFUL.
 ## Stack
 
 Python • TypeScript • JavaScript • React • AI/ML • Full-stack
 
 ## Philosophy
 
-Build things that solve problems I actually have. Ship fast, polish later (or never).
+Build things that solve problems I actually have. Ship fast, polish later.
 
 ---
 
