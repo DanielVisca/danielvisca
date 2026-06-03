@@ -1,6 +1,6 @@
 # Hi, I'm Daniel 👋 &emsp; <a href="https://www.danielvisca.com/"><sup><sub>danielvisca.com</sub></sup></a>
 
-📍 Seattle | Software Engineer @ Microsoft | Building things that solve my own problems
+📍 Seattle | Software Engineer @ Posthog | ex-Microsoft | Building things that solve my own problems
 
 ## What I'm Working On
 
@@ -17,24 +17,31 @@
 
 
 **Day Job**
-- Building AI tools for OneSupport at Microsoft (40K agents, 218 countries)
-- QEA (AI Case Review) & ASAT (Agent Satisfaction - 100K+ surveys/year)
 
-[**RXCHAINGE**](https://www.rxchainge.com/) - Founding engineer & advisor at Montreal healthcare AI startup
+- **Posthog**
+  - Self-healing products
+  - MCP Analytics (how and why are agents using your product)
+
+- [**RXCHAINGE**](https://www.rxchainge.com/) - Founding engineer & advisor at Montreal healthcare AI startup
 
 ## Recent Stuff
 
-Started a bunch of things, finished fewer than I'd like. Working on that.
+**Microsoft**
+- Built AI tools for OneSupport at Microsoft (40K agents, 218 countries)
+- QEA (AI Case Review) & ASAT (Agent Satisfaction - 100K+ surveys/year)
 
+
+**Side Projects**
 - Getting **OutfitterHQ** from 0 -> 1
 - Validating **Mod** as a useful 'vibecode your browser' tool
 
 ## Background
 
-Canadian, moved to Seattle in 2021. Built Chrome extensions, AI systems at enterprise scale, and various tools that scratch my own itches. I like projects that are technically interesting but are more importantly USEFUL.
+Canadian, living in Seattle. Built AI systems at enterprise scale, and various tools that scratch my own itches. I like projects that are technically interesting but are more importantly USEFUL.
+
 ## Stack
 
-Python • TypeScript • JavaScript • React • AI/ML • Full-stack
+Python • TypeScript • JavaScript • React • AI/ML • Full-stack ... and anything needed to get the job done
 
 ## Philosophy
 
