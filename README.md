@@ -13,7 +13,7 @@
 - [**Partners**](https://github.com/DanielVisca/Partners) - Two Agents, One Task (Adversarial and Cooperative)
 - [**MuscleMemory**](https://github.com/not4humans/MuscleMemory) - Python library for LLM agent skill aquisition
 - [**Spot the Canadian**](https://chromewebstore.google.com/detail/iphflfkfcklomnkljpniojgnhloidpnb?utm_source=item-share-cb) - Chrome extension that identifies Canadian celebs
-- [**IoT Waste Management**](https://www.invntech.com/) - Device monitoring with Particle & Supabase
+- [**IoT Waste Management**](https://iamfull.ca/) - Device monitoring with Particle & Supabase
 
 
 **Day Job**
