@@ -13,7 +13,7 @@
 - [**Partners**](https://github.com/DanielVisca/Partners) - Two Agents, One Task (Adversarial and Cooperative)
 - [**MuscleMemory**](https://github.com/not4humans/MuscleMemory) - Python library for LLM agent skill aquisition
 - [**Spot the Canadian**](https://chromewebstore.google.com/detail/iphflfkfcklomnkljpniojgnhloidpnb?utm_source=item-share-cb) - Chrome extension that identifies Canadian celebs
-- [**IoT Waste Management**](https://iamfull.ca/) - Monitor the fill and location of your bins, and predict when they will be full before you need to stop work
+- [**IoT Waste Management**](https://iamfull.ca/) - Monitor the fill and location of your bins, and predict when they will be full
 
 
 **Day Job**
