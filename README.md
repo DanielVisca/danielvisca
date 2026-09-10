@@ -12,7 +12,7 @@
 - [**OutfitterHQ**](https://outfitterhq.ca/) - Fleet operations and booking management platform for wilderness canoe and kayak outfitters.
 - [**Partners**](https://github.com/DanielVisca/Partners) - Two Agents, One Task (Adversarial and Cooperative)
 - [**MuscleMemory**](https://github.com/not4humans/MuscleMemory) - Python library for LLM agent skill aquisition
-- [**Spot the Canadian**](https://chromewebstore.google.com/detail/iphflfkfcklomnkljpniojgnhloidpnb?utm_source=item-share-cb) - Chrome extension that identifies Canadian celebs
+- [**Spot the Canadian**](https://chromewebstore.google.com/detail/iphflfkfcklomnkljpniojgnhloidpnb?utm_source=item-share-cb) - Chrome extension that identifies famous Canadians
 - [**IoT Waste Management**](https://iamfull.ca/) - Monitor the fill and location of your bins, and predict when they will be full
 
 
