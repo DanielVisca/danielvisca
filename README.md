@@ -7,13 +7,13 @@
 **Pottery Studio** - Opening a community studio in Seattle with my wife
 
 **Side Projects**
-- [**Mod**](https://github.com/DanielVisca/Mod) - Vibecode any webpage on your browser to customize the internet to your liking
-- [**Sincerity**](https://chromewebstore.google.com/detail/eecmbjkpkifngjfchnnpiafopomkpick?utm_source=item-share-cb) - Chrome extension for media bias detection (850+ users)
 - [**OutfitterHQ**](https://outfitterhq.ca/) - Fleet operations and booking management platform for wilderness canoe and kayak outfitters.
-- [**Partners**](https://github.com/DanielVisca/Partners) - Two Agents, One Task (Adversarial and Cooperative)
-- [**MuscleMemory**](https://github.com/not4humans/MuscleMemory) - Python library for LLM agent skill aquisition
 - [**Spot the Canadian**](https://chromewebstore.google.com/detail/iphflfkfcklomnkljpniojgnhloidpnb?utm_source=item-share-cb) - Chrome extension that identifies famous Canadians
 - [**IoT Waste Management**](https://iamfull.ca/) - Monitor the fill and location of your bins, and predict when they will be full
+- [**Mod**](https://github.com/DanielVisca/Mod) - Vibecode any webpage on your browser to customize the internet to your liking
+- [**MuscleMemory**](https://github.com/not4humans/MuscleMemory) - Python library for LLM agent skill aquisition
+- [**Partners**](https://github.com/DanielVisca/Partners) - Two Agents, One Task (Adversarial and Cooperative)
+- [**Sincerity**](https://chromewebstore.google.com/detail/eecmbjkpkifngjfchnnpiafopomkpick?utm_source=item-share-cb) - Chrome extension for media bias detection (850+ users)
 
 
 **Day Job**
@@ -28,20 +28,12 @@
 
 **Microsoft**
 - Built AI tools for OneSupport at Microsoft (40K agents, 218 countries)
-- QEA (AI Case Review) & ASAT (Agent Satisfaction - 100K+ surveys/year)
-
-
-**Side Projects**
-- Getting **OutfitterHQ** from 0 -> 1
-- Validating **Mod** as a useful 'vibecode your browser' tool
+- Quality Evaluation Agent (AI Case Review)
+- Agent Satisfaction - Automated Insight pipeline processing 100K+ surveys/year
 
 ## Background
 
 Canadian, living in Seattle. Built AI systems at enterprise scale, and various tools that scratch my own itches. I like projects that are technically interesting but are more importantly USEFUL.
-
-## Stack
-
-Python • TypeScript • JavaScript • React • AI/ML • Full-stack ... and anything needed to get the job done
 
 ## Philosophy
 
