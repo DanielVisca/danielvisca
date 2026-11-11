@@ -7,7 +7,7 @@
 **Pottery Studio** - Opening a community studio in Seattle with my wife
 
 **Side Projects**
-- [**OutfitterHQ**](https://outfitterhq.ca/) - Fleet operations and booking management platform for wilderness canoe and kayak outfitters.
+- [**OutfitterHQ**](https://outfitterhq.ca/) - Booking Software & Fleet management for Outfitters with complex logistics.
 - [**Spot the Canadian**](https://chromewebstore.google.com/detail/iphflfkfcklomnkljpniojgnhloidpnb?utm_source=item-share-cb) - Chrome extension that identifies famous Canadians
 - [**IoT Waste Management**](https://iamfull.ca/) - Monitor the fill and location of your bins, and predict when they will be full
 - [**Mod**](https://github.com/DanielVisca/Mod) - Vibecode any webpage on your browser to customize the internet to your liking
@@ -19,8 +19,9 @@
 **Day Job**
 
 - **Posthog**
+  - Application Observability (Logs, Traces, Metrics)
   - Self-healing products
-  - MCP Analytics (how and why are agents using your product)
+  - [MCP Analytics](https://posthog.com/docs/mcp-analytics) (how and why are agents using your tools)
 
 - [**RXCHAINGE**](https://www.rxchainge.com/) - Founding engineer & advisor at Montreal healthcare AI startup
 
