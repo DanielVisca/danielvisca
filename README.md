@@ -4,7 +4,7 @@
 
 ## What I'm Working On
 
-**Pottery Studio** - Opening a community studio in Seattle with my wife
+**Pottery Studio** - Opening a [community studio](https://www.muddygoosepottery.com/) in Seattle with my wife
 
 **Side Projects**
 - [**OutfitterHQ**](https://outfitterhq.ca/) - Booking Software & Fleet management for Outfitters with complex logistics.
